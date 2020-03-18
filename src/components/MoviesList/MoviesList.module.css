@@ -16,3 +16,9 @@
 .moviesList a {
   text-decoration: none;
 }
+
+@media screen and (max-width: 500px) {
+  .moviesList {
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  }
+}

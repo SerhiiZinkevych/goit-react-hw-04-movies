@@ -20,3 +20,12 @@
   font-weight: bold;
   text-decoration: none;
 }
+
+@media screen and (max-width: 500px) {
+  .movieCardMenu h2 {
+    text-align: center;
+  }
+  .movieCardMenu ul {
+    justify-content: center;
+  }
+}

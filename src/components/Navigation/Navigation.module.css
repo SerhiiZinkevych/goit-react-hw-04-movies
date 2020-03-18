@@ -28,3 +28,17 @@
   text-decoration: none;
   color: #fff;
 }
+
+@media screen and (max-width: 500px) {
+  .siteNavList {
+    flex-direction: column;
+  }
+
+  .siteNavListItem {
+    padding-bottom: 5px;
+  }
+
+  .siteLogo > img {
+    height: 60px;
+  }
+}
