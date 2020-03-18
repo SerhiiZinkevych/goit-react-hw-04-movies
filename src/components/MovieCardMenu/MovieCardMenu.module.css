@@ -1,0 +1,22 @@
+.movieCardMenu {
+  margin-bottom: 20px;
+}
+
+.movieCardMenu h2 {
+  margin-bottom: 10px;
+}
+
+.movieCardMenu ul {
+  display: flex;
+  list-style: none;
+}
+
+.movieCardMenu ul li {
+  margin-right: 10px;
+}
+
+.movieCardMenu ul li a {
+  color: #081c24;
+  font-weight: bold;
+  text-decoration: none;
+}

@@ -1,0 +1,30 @@
+.pageNav {
+  /* box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.75); */
+  background-color: #081c24;
+}
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  align-items: center;
+}
+.siteNavList {
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+}
+
+.siteLogo > img {
+  height: 80px;
+}
+
+.siteNavListItem {
+  padding-left: 50px;
+}
+
+.siteNavListItem a {
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #fff;
+}

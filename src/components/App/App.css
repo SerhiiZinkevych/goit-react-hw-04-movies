@@ -1,0 +1,28 @@
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: inherit;
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+.App {
+  padding-bottom: 20px;
+}
+.App h1 {
+  text-align: center;
+  padding: 20px 0;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+a {
+  color: royalblue;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+}

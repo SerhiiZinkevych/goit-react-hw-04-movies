@@ -1,0 +1,12 @@
+.reviewsList {
+  list-style-type: none;
+}
+
+.reviewsListItem {
+  padding: 10px 0;
+  border-bottom: 1px solid #081c24;
+}
+
+.reviewsListItem h3 span {
+  color: #01d277;
+}

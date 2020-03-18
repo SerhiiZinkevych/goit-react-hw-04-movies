@@ -1,0 +1,32 @@
+.movieCard {
+  display: flex;
+  padding: 20px 0;
+}
+
+.movieCard img {
+  width: 280px;
+  margin-bottom: 20px;
+  border-radius: 3px;
+}
+
+.infoContainer {
+  padding: 20px;
+}
+
+.infoContainer * {
+  margin-bottom: 20px;
+}
+
+.genres span {
+  padding-right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  border-radius: 3px;
+  color: #ffffff;
+  background-color: #01d277;
+  border-color: #01d277;
+  font-size: 14px;
+  font-weight: bold;
+}
